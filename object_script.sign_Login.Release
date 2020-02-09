@@ -1,0 +1,14 @@
+INPUT(
+./release\main.o
+./release\widget.o
+./release\peison.o
+./release\login.o
+./release\logon.o
+./release\qrc_axiba.o
+./release\qrc_img.o
+./release\qrc_my.o
+./release\moc_widget.o
+./release\moc_peison.o
+./release\moc_login.o
+./release\moc_logon.o
+);
